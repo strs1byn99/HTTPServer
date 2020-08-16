@@ -1,6 +1,6 @@
 # HTTPSERVER
 
-This assignment is to implement a multi-threaded HTTP server. The server will be based on off the http server I built in Assignment. I reconstructed my server from Assignment 1 by adding a httpObject struct, in which case variables are easier to handle and passed into different functions. In order to fulfill multi-threading, I also used a ThreadArg struct from TA's starter code. Queue struct I used in this program is from GeeksforGeeks. Source: https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/
+This assignment is to implement a multi-threaded HTTP server with logging. In order to fulfill multi-threading, I created a ThreadArg struct. Queue struct I used in this program is from GeeksforGeeks. Source: https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/
 
 __How to Run:__
 
